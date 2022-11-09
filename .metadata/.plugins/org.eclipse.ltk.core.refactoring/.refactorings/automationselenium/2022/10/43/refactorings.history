@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;excelwrite.ETrialWeb.java&apos; to &apos;create_extracell.java&apos;&#x0D;&#x0A;- Original project: &apos;automationselenium&apos;&#x0D;&#x0A;- Original element: &apos;excelwrite.ETrialWeb.java&apos;&#x0D;&#x0A;- Renamed element: &apos;excelwrite.create_extracell.java&apos;" description="Rename compilation unit &apos;ETrialWeb.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src=/optional=/true=/=/maven.pomderived=/true=/&lt;excelwrite{ETrialWeb.java" name="create_extracell.java" references="false" stamp="1666875186972" version="1.0"/>
+</session>

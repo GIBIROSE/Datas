@@ -1,0 +1,23 @@
+package Stepdefinitions;
+
+import io.cucumber.java.en.*;
+
+public class DemoLoginSteps {
+
+	
+	@Given("Launch the browser")
+	public void launch_the_browser() {
+	    
+	}
+
+	@When("User entered the valid credentials")
+	public void user_entered_the_valid_credentials() {
+	    
+	}
+
+	@Then("user navigated to the home page")
+	public void user_navigated_to_the_home_page() {
+	    
+	}
+
+}

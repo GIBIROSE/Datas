@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="24.749">
+    <testcase classname="Customers" name="Add new customer" time="24.342">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given user launch chrome browser............................................passed
+When user opens url.........................................................undefined
+And user enters email as "admin@yourstore.com" and password as "admin"......skipped
+And click on login..........................................................skipped
+Then user view home page....................................................skipped
+When user click on customers menu...........................................skipped
+And click on customers menu item............................................skipped
+And click on add new button.................................................skipped
+Then user can view add new customer page....................................skipped
+When user enter customer info...............................................skipped
+And click on save button....................................................skipped
+Then user can view confirmation message "The new customer added successfully".skipped
+And close the browser.......................................................skipped
+]]></failure>
+    </testcase>
+</testsuite>

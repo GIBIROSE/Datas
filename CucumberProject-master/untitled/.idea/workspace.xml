@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ab94e26-aab2-458c-8cee-d10c049f2b90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/Reports/HTMLReports/formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/Reports/HTMLReports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/Reports/HTMLReports/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/Reports/HTMLReports/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/Reports/HTMLReports/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/Reports/JUnitReport/Cucumber.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/Reports/JsonReports/Cucumber.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/src/test/java/com/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/src/test/java/com/stepDefinition/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/src/test/java/com/stepDefinition/TagsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/src/test/resources/Features/DataTable.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/src/test/resources/Features/LoginFeature.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//BDD/CucumberProject-master/CucumberProject/src/test/resources/Features/TagsDemo.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="ProjectId" id="2DsXXoCNmyLMx2a3a2PHIrA4awW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ab94e26-aab2-458c-8cee-d10c049f2b90" name="Changes" comment="" />
+      <created>1661488819737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661488819737</updated>
+    </task>
+    <servers />
+  </component>
+</project>

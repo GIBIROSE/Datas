@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.568">
+    <testcase classname="Login of the nopcommerce application" name="User is on the client creation page" time="0.091">
+        <system-out><![CDATA[Given user clicked on the add new client....................................passed
+When user entered necessary details.........................................passed
+Then user clicked on save button............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login of the nopcommerce application" name="User is on the payslip creation page" time="0.006">
+        <system-out><![CDATA[Given user clicked on the add new payslip...................................passed
+When user entered necessary details for payslip.............................passed
+Then user clicked on  the payslip save button...............................passed
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,60 @@
+io.cucumber.junit.UndefinedStepException: The step 'close the important security information' and 10 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("close the important security information")
+public void close_the_important_security_information() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user can view dashboard")
+public void user_can_view_dashboard() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user click on the sales button")
+public void user_click_on_the_sales_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user click on the sales orders subtab")
+public void user_click_on_the_sales_orders_subtab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user can view existing order details")
+public void user_can_view_existing_order_details() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user can add new orders")
+public void user_can_add_new_orders() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user click on the add item tab")
+public void user_click_on_the_add_item_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user can choose product")
+public void user_can_choose_product() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user can choose options")
+public void user_can_choose_options() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user can save add item")
+public void user_can_save_add_item() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("close the add item tab")
+public void close_the_add_item_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

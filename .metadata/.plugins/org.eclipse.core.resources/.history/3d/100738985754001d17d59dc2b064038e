@@ -1,0 +1,10 @@
+package excelwrite;
+
+public class ExcelWriteCode {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
